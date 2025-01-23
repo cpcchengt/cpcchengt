@@ -87,9 +87,9 @@
   - [Twitter](https://twitter.com/your_twitter_handle)
   - [Discord](https://discord.com/your_discord_invite)
 
-[![yexuanruche's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&line_height=24&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![yexuanruche's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&line_height=24&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![yexuanruch's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&line_height=24&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![yexuanruche's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![yexuanruche's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![yexuanruch's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 

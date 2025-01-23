@@ -65,31 +65,28 @@
 ## 
 > I am a full stack engineer who loves all kinds of new technologies. My favorite language is Rust, and I think AI and blockchain are the future trends.
 
+> [!NOTE]\
 > You can’t be perfect but you can be unique.
 
-> [!WARNING]\
-> By default,
-
-> [!WARNING](introduction)\
-> By default,
 
 ## 
 
 - **⚓ Website:** [beatrix-schwire](http://www.beatrix-schwire.com) (updating now...)
+
 - **🖋️ Blog:** [Yexuanruche](http://www.beatrix-schwire.com) (updating now...)
 
-- 🚀 Open Source Contributions
+- **🚀 Open Source Contributions**
 
   - [@CPChain](https://github.com/CPChain) <span style="margin-left:5px;">maintainer</span>
   - [@opengemini](https://github.com/openGemini) <span style="margin-left:5px;">committer</span>
   - [@protocol-laboratory](https://github.com/openGemini) <span style="margin-left:5px;">member</span>
   - [@Beatrix-Schwire](https://github.com/Beatrix-Schwire) <span style="margin-left:5px;">owner</span>
 
-- 📫 Connect
+- **📫 Connect**
 
   - [Twitter](https://twitter.com/your_twitter_handle)
   - [Discord](https://discord.com/your_discord_invite)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&theme=transparent&bg_color=00000000&line_height=24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8)
 

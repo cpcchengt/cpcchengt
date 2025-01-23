@@ -87,6 +87,7 @@
   - [Twitter](https://twitter.com/your_twitter_handle)
   - [Discord](https://discord.com/your_discord_invite)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&theme=transparent&bg_color=00000000&line_height=24)
+[![yexuanruche's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&line_height=24&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![yexuanruch's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&line_height=24&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8)
 

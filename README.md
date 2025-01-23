@@ -1,10 +1,10 @@
-<h1 style="text-align: center; font-family: 'Comic Sans MS', sans-serif; font-size: 32px;">Hi! I'm Yexuanruche ✨✨✨</h1>
+<h1 align="center">Hi! I'm Yexuanruche ✨✨✨</h1>
 
 <!-- 
 ## <span style="font-family: 'Comic Sans MS', sans-serif; font-size: 16px; ">You can’t be perfect but you can be unique</span> -->
 
 <h2 style="text-align: center; font-family: 'Comic Sans MS', sans-serif; font-size: 24px;">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+ 
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust Badge">

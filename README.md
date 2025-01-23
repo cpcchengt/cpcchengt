@@ -59,8 +59,8 @@
 
 
 
-![Lin](./images/Lin-1.jpg)
-![Swire](./images/swire-4.png)
+![Lin](./images/Lin.jpg)
+![Swire](./images/Swire.png)
 
 ## 
 > [!NOTE]\

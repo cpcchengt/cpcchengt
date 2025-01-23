@@ -89,5 +89,7 @@
 
 [![yexuanruche's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&line_height=24&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![yexuanruch's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&line_height=24&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8)
+[![yexuanruche's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![yexuanruch's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 

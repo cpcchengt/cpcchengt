@@ -1,11 +1,9 @@
 <h1 align="center">Hi! I'm Yexuanruche ✨✨✨</h1>
 
-<!-- 
-## <span style="font-family: 'Comic Sans MS', sans-serif; font-size: 16px; ">You can’t be perfect but you can be unique</span> -->
 
-<h2 style="text-align: center; font-family: 'Comic Sans MS', sans-serif; font-size: 24px;">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
-<div style="text-align: center;">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust Badge">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go Badge">
@@ -18,7 +16,7 @@
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="Zig Badge">
 </div>
 
-<div style="text-align: center; margin-top: 10px; margin-bottom: 10px">
+<div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Badge">

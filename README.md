@@ -64,10 +64,10 @@
 
 ## 
 > [!NOTE]\
-> I am a full stack engineer who loves all kinds of new technologies. My favorite language is Rust, and I think AI and blockchain are the future trends.
+> I am a **full stack engineer** who loves all kinds of new technologies. My favorite language is **Rust**, and I think **AI** and **Blockchain** are the future trends.
 
 > [!IMPORTANT]\
-> You can’t be perfect but you can be unique.
+> You can’t be perfect but you can be **unique**.
 
 
 ## 

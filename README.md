@@ -63,9 +63,10 @@
 ![Lin](./images/Lin.jpg)
 
 ## 
+> [!NOTE]\
 > I am a full stack engineer who loves all kinds of new technologies. My favorite language is Rust, and I think AI and blockchain are the future trends.
 
-> [!NOTE]\
+> [!IMPORTANT]\
 > You can’t be perfect but you can be unique.
 
 

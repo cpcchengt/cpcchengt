@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=gin&logoColor=white" alt="Gin Badge">
 </div>
 
-<div style="display: flex; align-items: center; margin-top:20px; line-height:2;">
+<!-- <div style="display: flex; align-items: center; margin-top:20px; line-height:2;">
   <img src="./images/Lin.jpg" alt="Lin" style="width: 300px; margin-right: 20px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
   <div style="border-left: 1px solid #d1d5da; height: 560px; margin-right: 20px;"></div>
   <div style="display: flex; flex-direction: column; align-items: flex-start; height: 560px;">
@@ -55,7 +55,41 @@
         </li>
       </ul>
   </div>
-</div>
+</div> -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&&layout=compact) -->
+
+
+![Lin](./images/Lin.jpg)
+![Lin](./images/Lin.jpg)
+
+## 
+> I am a full stack engineer who loves all kinds of new technologies. My favorite language is Rust, and I think AI and blockchain are the future trends.
+
+> You can’t be perfect but you can be unique.
+
+> [!WARNING]\
+> By default,
+
+> [!WARNING](introduction)\
+> By default,
+
+## 
+
+- **⚓ Website:** [beatrix-schwire](http://www.beatrix-schwire.com) (updating now...)
+- **🖋️ Blog:** [Yexuanruche](http://www.beatrix-schwire.com) (updating now...)
+
+- 🚀 Open Source Contributions
+
+  - [@CPChain](https://github.com/CPChain) <span style="margin-left:5px;">maintainer</span>
+  - [@opengemini](https://github.com/openGemini) <span style="margin-left:5px;">committer</span>
+  - [@protocol-laboratory](https://github.com/openGemini) <span style="margin-left:5px;">member</span>
+  - [@Beatrix-Schwire](https://github.com/Beatrix-Schwire) <span style="margin-left:5px;">owner</span>
+
+- 📫 Connect
+
+  - [Twitter](https://twitter.com/your_twitter_handle)
+  - [Discord](https://discord.com/your_discord_invite)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpcchengt&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpcchengt&&layout=compact)
+
